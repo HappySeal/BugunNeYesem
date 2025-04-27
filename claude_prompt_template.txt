@@ -1,0 +1,22 @@
+Here's my food order history:
+
+{order_history}
+
+Based on my order history, can you suggest:
+1. What I might want to order today
+2. A new restaurant or food type I might enjoy trying
+3. What time I typically order food
+4. Any patterns or preferences you notice in my ordering habits
+
+Please be specific in your recommendations and explain your reasoning.
+
+If you notice I order from certain restaurants more frequently, include those in your analysis. For restaurants I order from repeatedly, suggest specific menu items I might enjoy but haven't tried yet.
+
+Consider factors like:
+- Time of day when I typically order
+- Price ranges I prefer
+- Types of cuisine I order most often
+- Days of the week I tend to order certain foods
+- Balance between trying new items and repeating favorites
+
+Make your recommendations practical and actionable. Suggest specific dishes or restaurants rather than generic food categories. 

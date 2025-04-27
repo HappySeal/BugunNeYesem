@@ -1,0 +1,12 @@
+# Rename this file to .env and update the values with your actual API keys
+
+# Telegram Bot API Key - Get this from BotFather (https://t.me/botfather)
+TELEGRAM_API_KEY=your_telegram_bot_token_here
+
+# Anthropic API Key (Optional - for Claude AI recommendations)
+# Get this from https://console.anthropic.com/
+# ANTHROPIC_API_KEY=your_anthropic_api_key_here
+
+# TGO Yemek Login Credentials - Required for automatic data fetching
+TGO_USERNAME=your_tgo_username_here
+TGO_PASSWORD=your_tgo_password_here 
